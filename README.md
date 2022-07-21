@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## API Key
+
+https://www.omdbapi.com/apikey.aspx
+
+Here is your key: e4b923dd
+
+Please append it to all of your API requests,
+
+OMDb API: http://www.omdbapi.com/?i=tt3896198&apikey=e4b923dd
+
 ## Available Scripts
 
 In the project directory, you can run:
